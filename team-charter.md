@@ -12,7 +12,7 @@
 |------|-------|--------|-----------------|
 | Dane DeGiacomo | degia005@umn.edu | degia005 | Scrum Master |
 | Santiago Caldas Quiroga | calda034@umn.edu | calda034 | System Admin |
-| Nazariah Makpo | makpo002@umn.edu | makpo002-cpu | |
+| Nazariah Makpo | makpo002@umn.edu | makpo002-cpu | Developer |
 | Neshy Waakuwa | waaku001@umn.edu | neshylia17 | |
 | Reina Ganter | gante031@umn.edu | | |
 | Shanna Nunez | nunez192@umn.edu | nunez192 | |
