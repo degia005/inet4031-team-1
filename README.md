@@ -9,7 +9,7 @@ observability, security hardening, and backup/recovery.
 
 ## Team
 
-**Team Name:** [To be filled]
+**Team Name:** Team 5
 
 **Team Number:** 5
 

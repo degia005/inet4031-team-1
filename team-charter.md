@@ -2,7 +2,7 @@
 
 ## Team Identity
 
-**Team Name:** [To be filled in]
+**Team Name:** Team 5
 
 **Team Number:** 5
 
