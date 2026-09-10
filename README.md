@@ -22,6 +22,7 @@ observability, security hardening, and backup/recovery.
 | Farsun Abdi | abdi0408@umn.edu | |
 | Lucas Phomsamouth | phoms005@umn.edu | |
 | Mohamed Osman | osman389@umn.edu | |
+| Neshy Waakuwa | waaku001@umn.edu |
 
 See `team-charter.md` for role assignments and the 7-sprint rotation schedule.
 
